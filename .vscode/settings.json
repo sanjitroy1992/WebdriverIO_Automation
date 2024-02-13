@@ -1,0 +1,16 @@
+{
+    "cucumberautocomplete.steps": [
+      "features/step-definitions/*.ts",
+      "features/*/*.ts",
+      "features/**/step-definitions/*.ts",
+      "features/**/*/*.ts"
+    ],
+    "cucumberautocomplete.onTypeFormat": true,
+    "cucumberautocomplete.strictGherkinCompletion": false,
+    "editor.formatOnSave": true,
+    "cucumberautocomplete.smartSnippets": true,
+    "python.pythonPath": "/usr/local/bin/python3",
+    // "workbench.colorTheme": "One Dark Pro",
+    "workbench.editor.highlightModifiedTabs": true
+  }
+  
