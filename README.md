@@ -1,9 +1,3 @@
----
-runme:
-  id: 01HPH3ZTR07NMQK70MP6ZEWFYA
-  version: v2.2
----
-
 # WebdriverIO Documentation
 
 ## Setup Requirement
